@@ -6,7 +6,7 @@ import win32api
 import win32con
 import ait
 
-path = 'C:\\Users\\Akash\\OneDrive\\Desktop\\AI_Aim\\My Project\\classifier\\cascade.xml' # cascade path
+path = '####' # cascade path
 obj = 'target' # detected obj name (for display)
 
 # cascade values for tweaking
